@@ -1,0 +1,40 @@
+# Build artifacts
+*.o
+*.obj
+*.exe
+sir_simulation
+
+# Debug files
+*.dSYM/
+*.pdb
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+
+# Documentation build
+docs/html/
+docs/latex/
+
+# Backup files
+*.bak
+*.backup
+
+# Archive files (unless specifically needed)
+*.zip
+*.tar.gz
+*.tar.bz2
+
+# Log files
+*.log
