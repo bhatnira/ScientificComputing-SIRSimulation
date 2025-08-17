@@ -276,8 +276,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions, suggestions, or collaborations:
 - Create an issue in this repository
-- Email: [your-email@domain.com]
-- Academic webpage: [your-webpage]
+- Email: [bhatnira@isu.edu]
+
 
 ---
 
